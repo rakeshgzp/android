@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="addField">addField</string>
+    <string name="welcome_page">Welcome to transactions page</string>
+    <string name="accno">Enter Account Number</string>
+    <string name="Account_Number">Account Number</string>
+    <string name="Submit">Submit</string>
+    <string name="transaction">Start Transaction</string>
+    <string name="debit">Debit</string>
+    <string name="credit">Credit</string>
+    <string name="txn_type">Txn Type</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="view_contact">View Contact</string>
+    <string name="update_contact">Update Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+
+
+    <string-array name="txn_type">
+        <item>Debit</item>
+        <item>Credit</item>
+        <item>Transfer</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

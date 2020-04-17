@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="items">
+        <item>A</item>
+        <item>Asc</item>
+        <item>Asdcx</item>
+        <item>Acxa</item>
+        <item>Awtt</item>
+        <item>At0y</item>
+        <item>Aiykujh</item>
+        <item>Abc</item>
+        <item>Ahnv</item>
+        <item>Awesdfv</item>
+
+    </string-array>
+</resources>
